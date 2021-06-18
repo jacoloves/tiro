@@ -27,3 +27,6 @@ $ ./tiro [existing document names]
 |  Save  |  ctrl-s  |
 |  Quit  |  ctrl-q  |
 |  Find  |  ctrl-f  |
+
+# Reference
+https://viewsourcecode.org/snaptoken/kilo/index.html
